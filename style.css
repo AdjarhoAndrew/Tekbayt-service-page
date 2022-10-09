@@ -12,6 +12,7 @@ body {
   align-items: center;
   justify-content: center;
   width: 100%;
+  font-family: 'Poppins', sans-serif;
 }
 
 body main {
@@ -23,7 +24,7 @@ body main {
 }
 
 .text1 {
-  font-size: 3em;
+  font-size: 2em;
   padding-left: 1em;
   padding-right: 1em;
   color: rgb(68, 67, 67);
@@ -252,6 +253,9 @@ footer {
     display: none;
   }
 
+  .textcon1{ position: relative;
+    right: 8em;}
+
   .img1 {
     width: 100%;
   }
@@ -273,6 +277,7 @@ footer {
     justify-content: center;
     align-items: center;
     width: 100%;
+   
   }
 
   .seccontainer4 {
